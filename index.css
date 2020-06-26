@@ -1,0 +1,41 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+a {
+	font-style: none;
+	color: white;
+}
+
+a:hover {
+	font-style: none;
+	color: white;
+}
+
+.col-padding {
+	padding-left: 57px;
+	padding-right: 57px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: white;
+   text-align: center;
+}
+
+.col-text {
+	font-size: 18px;
+}
+
+body {
+	background-image: url("Background.jpg");
+}
+
+.col-title {
+	font-size: 30;
+}
